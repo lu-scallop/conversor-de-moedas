@@ -8,4 +8,6 @@ O projeto proporciona até 6 opções distintas de conversões de moedas em um m
 ## Funcionalidade
 O menu apresenta até seis opções de conversão: Dólar-Peso Argentino, Dólar-Real Brasileiro, Dólar-Euro. Também é possível fazer a operação inversa para cada uma delas.
 
+![Menu](assets/Img(1).png)
+
 
